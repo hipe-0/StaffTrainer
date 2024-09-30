@@ -30,6 +30,12 @@ https://github.com/user-attachments/assets/d7a3c210-e539-4041-abc6-1f3a885aaadf
 
 https://github.com/user-attachments/assets/febf5b2f-da8a-48bc-bd69-7ba0a03a5a47
 
+
+#License: CC BY-NC
+See https://creativecommons.org/licenses/by-nc/4.0/ This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. CC BY-NC includes the following elements:
+
+BY: credit must be given to the creator. NC: Only noncommercial uses of the work are permitted.
+
 # Bill of materials
 * Teensy 4.1 microcontroller by PJRC (https://www.pjrc.com/store/teensy41.html)
 * Audio shield for Teensy (https://www.pjrc.com/store/teensy3_audio.html)
@@ -44,3 +50,5 @@ https://github.com/user-attachments/assets/febf5b2f-da8a-48bc-bd69-7ba0a03a5a47
 
 # Analog Audio internal logic
 ![Capture d'écran 2024-09-30 232830](https://github.com/user-attachments/assets/9f0fd24b-21f8-46fe-a962-6ae5a27b5dde)
+
+Hippolyte
