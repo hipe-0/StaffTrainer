@@ -1,7 +1,7 @@
 # StaffTrainer
 
-goal: This device teaches you the musical staff notation.
-Kids friendly and fun.
+Goal: This device teaches you the musical staff notation.
+Kids-friendly and fun.
 
   ![20240603_203550](https://github.com/user-attachments/assets/a966fabd-dfae-45da-9099-98236aba14e7)
 
