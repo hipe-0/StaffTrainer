@@ -3,6 +3,8 @@
 goal: This device teaches you the musical staff notation.
 Kids friendly and fun.
 
+  ![20240603_203550](https://github.com/user-attachments/assets/a966fabd-dfae-45da-9099-98236aba14e7)
+
 # Features
 * On board 12 notes Keyboard
 * circular color screen
@@ -17,8 +19,6 @@ Kids friendly and fun.
 * USB powered via micro usb cable
 * generates sound
 
-
-  ![20240603_203550](https://github.com/user-attachments/assets/a966fabd-dfae-45da-9099-98236aba14e7)
 
 Demo :
 
