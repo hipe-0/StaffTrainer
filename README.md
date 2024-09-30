@@ -41,3 +41,6 @@ https://github.com/user-attachments/assets/febf5b2f-da8a-48bc-bd69-7ba0a03a5a47
 * 3D Printed box + back cover (STP files are in the repository for easy printing yourself)
 * 3W 8 Ohm mini loudspeaker (similar to https://www.aliexpress.com/item/1005005699882165.html)
 * Amplifier board HW-104 3.3 v 2x3W (similar to https://www.aliexpress.com/item/1005006982225975.html)
+
+# Analog Audio internal logic
+![Capture d'écran 2024-09-30 232830](https://github.com/user-attachments/assets/9f0fd24b-21f8-46fe-a962-6ae5a27b5dde)
