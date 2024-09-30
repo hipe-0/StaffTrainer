@@ -34,8 +34,8 @@ https://github.com/user-attachments/assets/febf5b2f-da8a-48bc-bd69-7ba0a03a5a47
 * Audio shield for Teensy (https://www.pjrc.com/store/teensy3_audio.html)
 * TFT screen 240x240 pixels GC9401A SPI 4x wires
 * 12 push buttons
-* usb host cable with plug by PJRC
-* microphone
+* usb host cable with plug by PJRC (https://www.pjrc.com/store/cable_usb_host_t36.html)
+* microphone (diaphragm piezo 10mm diameter)
 * usb cable 1 m :USB A male to micro USB male
 * 3d printed box + back cover (file is in the repository)
 * 3W 8ohm mini loudspeaker
