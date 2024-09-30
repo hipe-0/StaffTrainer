@@ -15,6 +15,8 @@ Kids friendly and fun.
 * get the 5 stars !
 * speed to get the correct answer is displayed as an average measured in seconds
 * USB powered via micro usb cable
+* generates sound
+
 
   ![20240603_203550](https://github.com/user-attachments/assets/a966fabd-dfae-45da-9099-98236aba14e7)
 
