@@ -18,7 +18,7 @@ Kids friendly and fun.
 * Speed to get the correct answer is displayed as an average measured in seconds
 * USB powered via micro usb cable
 * Generates sound
-* fully assembled, welded and tested by our product development team as you can see.
+* fully assembled, welded and tested by our highly motivated product development team as you can see :-)
 
 
 Demo :
